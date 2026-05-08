@@ -53,5 +53,16 @@ When completed, the person becomes a customer.
 - Contact = Student
 - Lead = Student interested in admission
 - Opportunity = Admission process
+  ## Screenshots
+
+![Salesforce Quick Look](sales force-quck look.jpeg)
+
+![Developer Quick Look](salesforce developer quicklook.jpeg)
+
+![Quick Look Completed](quick look completed.jpeg)
+
+![Salesforce CRM](salesforce crm.jpeg)
+
+![Trailhead Playground](trailhead playground.jpeg)
 
 
