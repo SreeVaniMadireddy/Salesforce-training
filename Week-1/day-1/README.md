@@ -54,6 +54,4 @@ When completed, the person becomes a customer.
 - Lead = Student interested in admission
 - Opportunity = Admission process
 
-## Screenshots
 
-(Add Trailhead screenshots here)
