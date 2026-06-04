@@ -1,6 +1,6 @@
 # Day 16: Debugging, Developer Tools, and Maintainable Architecture
 
-## 🎯 Goal for Today
+## What i learn't today
 Learn how enterprise developers diagnose, debug, improve, and maintain highly scalable enterprise systems. This module focuses heavily on root-cause analysis, developer tooling, performance optimization, and Lightning Web Component (LWC) best practices.
 
 ---
